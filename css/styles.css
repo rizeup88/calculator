@@ -1,0 +1,35 @@
+#add {
+	margin-top: 2em;
+}
+
+#subtract {
+	margin-top: 3em;
+}
+
+#multiply {
+	margin-top: 3em;
+}
+
+#divide {
+	margin-top: 3em;
+}
+
+#output {
+	margin-top: 1em;
+	color: green;
+}
+
+#output2 {
+	margin-top: 1em;
+	color: red;
+}
+
+#output3 {
+	margin-top: 1em;
+	color: #ba9004;
+}
+
+#output4 {
+	margin-top: 1em;
+	color: blue;
+}
